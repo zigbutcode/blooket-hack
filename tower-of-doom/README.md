@@ -42,3 +42,10 @@ https://schoolcheats.net/blooket
 
 New scripts are at:
 https://schoolcheats.net/blooket
+
+# maxOutStats.js
+
+### Get the script from the file [maxOutStats.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/maxOutStats.js)
+
+New scripts are at:
+https://schoolcheats.net/blooket
