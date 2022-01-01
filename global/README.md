@@ -17,13 +17,6 @@ https://schoolcheats.net/blooket
 
 ### Get the script from the file [floodGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGame.js)
 
-# bypassRandomName.js
-
-### Get the script from the file [bypassRandomName.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/bypassRandomName.js)
-
-New scripts are at:
-https://schoolcheats.net/blooket
-
 # getAllBlooksInGame.js
 
 ### Get the script from the file [getAllBlooksInGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooksInGame.js)
