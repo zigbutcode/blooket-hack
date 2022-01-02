@@ -18,7 +18,7 @@ const sleep = (ms) => new Promise(r => setTimeout(r, ms));
         var blooks = [];
 
         for (let i = 0; i < amount; i++) {
-            await sleep(500)
+            await sleep(500);
             fetch('https://api.blooket.com/api/users/unlockblook', {
                 method: "PUT",
                 headers: {
