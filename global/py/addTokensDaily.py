@@ -5,20 +5,6 @@ from time import sleep
 LOGIN_NAME = "GaryHOST" # blook-name or email
 LOGIN_PASSWORD = "CornerScuffModifiedEducatorViabilityGrudge" # password
 
-
-## The security of storing your password in plain text is not great.
-## It is heavily recommended that you set your password to something truly random,
-## or something very generic (the prior is preferable).
-## If you are using this script with your old password, whatever you do,
-## DO NOT reuse that password on any other account. If an attacker compromises your
-## device, physically or remotely, they might get access to your other accounts.
-##
-## To create a random password, consider using this tool:
-##
-##      https://diceware.dmuth.org
-##
-##
-
 UNIVERSAL_HEADERS = {'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A",
     'Accept-Encoding': "gzip, deflate",
     'Accept': "application/json",
