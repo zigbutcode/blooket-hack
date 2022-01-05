@@ -8,6 +8,19 @@ If you are a programmer and want to make your own hacks for blooket make sure to
 
 **blooket hacks are located at https://schoolcheats.net/blooket**
 
+# Important
+
+Blooket is now banning people who are using hacks.
+
+I just wanted to say that I'm not responsible if you get banned. I'm not responsible for your actions.
+
+## POC
+![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
+![image](https://user-images.githubusercontent.com/73669084/148287302-8693c202-6968-4cf3-811f-05cbd0fd8b2f.png)
+![image](https://user-images.githubusercontent.com/73669084/148287313-30793b91-b0d1-430b-879b-398a23b9b197.png)
+
+# Usage
+
 ## How to use
 
 Here is how to use the hacks with videos showing step-by-step how to install the hacks and how to use them.
