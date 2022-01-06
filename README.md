@@ -1,4 +1,4 @@
-# Blooket Hacks
+# The Blooket Hack
 
 **The Official Blooket Hack provided by [glizzz_y](https://twitter.com/glizuwu)**
 
