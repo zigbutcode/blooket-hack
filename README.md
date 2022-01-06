@@ -1,5 +1,7 @@
 # Blooket Hacks
 
+**The Blooket Hack provided by [glizzz_y](https://twitter.com/glizuwu)**
+
 ## **Support discord server: https://discord.gg/RTseVPF8MA**
 
 All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixzzy/blooket-hack/issues).
