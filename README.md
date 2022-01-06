@@ -4,7 +4,7 @@
 
 Why you should use this tool:
 - Always working.
-- When hacks break it usually gets fixed in about 6-8 hours.
+- When the hacks break it usually gets fixed in about 6-8 hours.
 - This tool is actively being updated so nothing breaks.
 - Used by hundreds of thousands people.
 
