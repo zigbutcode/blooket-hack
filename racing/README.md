@@ -1,5 +1,3 @@
-# **Support discord server: https://discord.gg/RTseVPF8MA**
-
 # racing 
 
 This cheat only works in racing game mode!
