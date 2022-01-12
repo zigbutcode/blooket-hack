@@ -1,5 +1,3 @@
-# **Support discord server: https://discord.gg/RTseVPF8MA**
-
 # crazy-kingdom
 
 This cheat only works in crazy kingdom gamemode!
