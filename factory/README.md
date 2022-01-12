@@ -1,5 +1,3 @@
-# **Support discord server: https://discord.gg/RTseVPF8MA**
-
 # factory
 
 This cheat only works in factory game mode!
