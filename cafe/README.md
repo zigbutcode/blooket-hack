@@ -1,5 +1,3 @@
-# **Support discord server: https://discord.gg/RTseVPF8MA**
-
 # cafe
 
 This cheat only works in cafe game mode!
