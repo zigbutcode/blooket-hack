@@ -1,6 +1,6 @@
 # The Blooket Hack
 
-**The Official Blooket Hack provided by [glizzz_y](https://twitter.com/glizuwu)**
+**The Official Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
 
 Why you should use this tool:
 - Always working.
